@@ -18,7 +18,9 @@ An evolving, experimental low-cost, rapid deployment customer service chatbot pr
 https://aiforastro.azurewebsites.net/
 
 # Completed tasks
-- RAG to the society's website
+- Grounding LLM (via RAG)
+- Embedding on vectorization
 
 # TODOs
+- Agentic AI
 - Function calling to third party service
