@@ -10,8 +10,8 @@ An experimental one-stop solution for integrating electronic resources of a loca
 - Azure Cosmos DB for NoSQL (Free Tier)
 - Azure Apps (F1 Tier)
 - Azure OpenAI models
--- gpt-4.1 model for LLM
--- text-embedding-3-small for embedding
+   - gpt-4.1 model for LLM
+   - text-embedding-3-small for embedding
 - Azure Data Factory
 
 # Demo Site URL
