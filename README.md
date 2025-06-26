@@ -1,5 +1,5 @@
 # AI4Astro
-An experimental one-stop solution for integrating electronic resources of a local astronomical society and others with AI technologies such as AI Agent, MCP, RAG for members, workers and public.
+An experimental one-stop solution for integrating electronic resources of a local astronomical society and others with AI technologies such as RAG, Function calling for members, workers and public.
 
 # Highlight
 - Low cost
@@ -16,3 +16,9 @@ An experimental one-stop solution for integrating electronic resources of a loca
 
 # Demo Site URL
 https://aiforastro.azurewebsites.net/
+
+# Completed tasks
+- RAG to the society's website
+
+# TODOs
+- Function calling to third party service
