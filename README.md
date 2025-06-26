@@ -12,7 +12,7 @@ An experimental one-stop solution for integrating electronic resources of a loca
 - Azure OpenAI models
    - gpt-4.1 model for chatbot
    - text-embedding-3-small for embedding
-- Azure Data Factory
+- Azure Data Factory for regular data download and indexing trigger via REST API
 
 # Demo Site URL
 https://aiforastro.azurewebsites.net/
