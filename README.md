@@ -1,5 +1,5 @@
 # AI4Astro
-An experimental one-stop solution for integrating electronic resources of a local astronomical society and others with AI technologies such as RAG, Function calling for members, workers and public.
+An evolving, experimental low-cost, rapid deployment customer service chatbot proof-of-concept for a local astronomical society, featuring Grounding LLM (e.g. RAG), embedding, Agentic AI, function calling to external service.
 
 # Highlight
 - Low cost
