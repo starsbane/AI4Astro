@@ -1,5 +1,5 @@
 # AI4Astro
-An evolving, experimental low-cost, rapid deployment customer service chatbot proof-of-concept for a local astronomical society, featuring Grounding LLM (e.g. RAG), embedding, Agentic AI, function calling to external service.
+The first phase of this project aims to deliver an evolving, experimental low-cost, rapid deployment customer service chatbot for a local astronomical society, featuring Grounding LLM (e.g. RAG), embedding, Agentic AI, function calling to external service.
 
 # Highlight
 - Low cost
