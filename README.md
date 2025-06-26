@@ -3,7 +3,7 @@ An experimental one-stop solution for integrating electronic resources of a loca
 
 # Highlight
 - Low cost
-- Rapid development
+- Rapid deployment
 
 # Technologies
 - Azure AI Search (Standard S0 tier)
